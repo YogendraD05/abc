@@ -1,5 +1,5 @@
 print("hello world")
-number = int(input("Enter a number: "))
+number = 2
 
 if number % 2 == 0:
     print("This is an even number.")
